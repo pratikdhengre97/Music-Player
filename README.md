@@ -1,1 +1,1 @@
-# Music-Player
+Music-Player is an html, css and javascript based project which includes the involvement of good songs. All of the icons used in the website are from font awesome website.The logic of the icons in written in javascript.
